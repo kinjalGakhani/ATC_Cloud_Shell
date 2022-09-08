@@ -2,16 +2,13 @@
 
 ## Setup
 
-<!-- <walkthrough-author name="kinjalakhani@google.com" analyticsId="UA-125550242-1" tutorialName="SDF" repositoryUrl="https://github.com/kinjalGakhani/SDF_Cloud_Shell.git"></walkthrough-author> -->
-
 Welcome to Smart Deployment Framework in Google Cloud Shell! 
 
-The Smart Deployment Framework provides a wide variety of fully automated architectures powered by Terraform. SDF provides flexibility to leverage single click deployment, download terraform or export to repository.
+The Smart Deployment Framework provides automated deployment of most commonly used reference architectures across different GCP workloads with an ability to download and share terraform code. The reference architectures includes combination of multiple GCP services combined together to address a business use-case.
 
-<!-- We need you to let us know what project you'd like to use with Smart Deployment Framework.
+We need you to let us know what project you'd like to use with Smart Deployment Framework.
 
-<walkthrough-project-billing-setup></walkthrough-project-billing-setup>  -->
-
+<walkthrough-project-billing-setup></walkthrough-project-billing-setup> 
 
 ## SDF Setup Steps!
 
